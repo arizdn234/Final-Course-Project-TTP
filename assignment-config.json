@@ -1,0 +1,19 @@
+{
+	"name": "fcp-web-application",
+	"course": "Web Application",
+	"title": "FCP- Task Tracker Plus",
+	"order": 3,
+	"topics": [
+		"gin",
+		"gorm",
+		"postgres",
+		"template",
+		"html"
+	],
+	"image": "golang-database",
+	"command": "go test",
+	"totalTestCase": 72,
+	"metadata": {
+		"type": "final-project"
+	}
+}
